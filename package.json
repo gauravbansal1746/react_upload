@@ -11,7 +11,8 @@
     "react-scripts": "3.4.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://github.com/gauravbansal1746/EndtermNewsproject.git",
+  "homepage": "https://github.com/gauravbansal1746/Endproject.git",
+  
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
